@@ -1,2 +1,2 @@
 # FoundryMacros
-Just a set of miscellaneous foundry macros written in JavaScript
+Just a set of miscellaneous FoundryVTT macros written in JavaScript
